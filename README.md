@@ -14,9 +14,9 @@ Landing page para D'Cave Nightclub Cancún con múltiples propuestas de diseño.
 - `index-propuesta3.html` - Propuesta 3: Modal/popup para productos (fondo negro)
 
 **Versiones con fondo gris oscuro:**
-- `index-propuesta1-gris.html` - Propuesta 1: Sección dedicada de tickets con tabs y grid de cards (fondo gris oscuro #1f1f1f)
-- `index-propuesta2-gris.html` - Propuesta 2: Sección de booking integrada (fondo gris oscuro #1f1f1f)
-- `index-propuesta3-gris.html` - Propuesta 3: Modal/popup para productos (fondo gris oscuro #1f1f1f)
+- `index-propuesta1-gris.html` - Propuesta 1: Sección dedicada de tickets con tabs y grid de cards (fondo gris oscuro #151515)
+- `index-propuesta2-gris.html` - Propuesta 2: Sección de booking integrada (fondo gris oscuro #151515)
+- `index-propuesta3-gris.html` - Propuesta 3: Modal/popup para productos (fondo gris oscuro #151515)
 
 ### Carpetas
 
@@ -33,18 +33,18 @@ Landing page para D'Cave Nightclub Cancún con múltiples propuestas de diseño.
 - Sección dedicada `#pricing` con tabs (Table Service, Personal, Residents, Special Offers)
 - Grid de cards para productos
 - Botones del header y hero apuntan a `#pricing`
-- Disponible en dos variantes: fondo negro (#000000) y fondo gris oscuro (#1f1f1f)
+- Disponible en dos variantes: fondo negro (#000000) y fondo gris oscuro (#151515)
 
 ### Propuesta 2 (Negro y Gris Oscuro)
 - Sección de booking `#booking` integrada
 - Botones del header y hero apuntan a `#booking`
-- Disponible en dos variantes: fondo negro (#000000) y fondo gris oscuro (#1f1f1f)
+- Disponible en dos variantes: fondo negro (#000000) y fondo gris oscuro (#151515)
 
 ### Propuesta 3 (Negro y Gris Oscuro)
 - Modal/popup para mostrar productos
 - Botones del header y hero abren el modal
 - Tabs dentro del modal para diferentes categorías
-- Disponible en dos variantes: fondo negro (#000000) y fondo gris oscuro (#1f1f1f)
+- Disponible en dos variantes: fondo negro (#000000) y fondo gris oscuro (#151515)
 
 ## Variantes de Color
 
@@ -53,11 +53,11 @@ El proyecto incluye 7 versiones en total:
 2. `index-propuesta1.html` - Propuesta 1 con fondo negro
 3. `index-propuesta2.html` - Propuesta 2 con fondo negro
 4. `index-propuesta3.html` - Propuesta 3 con fondo negro
-5. `index-propuesta1-gris.html` - Propuesta 1 con fondo gris oscuro (#1f1f1f)
-6. `index-propuesta2-gris.html` - Propuesta 2 con fondo gris oscuro (#1f1f1f)
-7. `index-propuesta3-gris.html` - Propuesta 3 con fondo gris oscuro (#1f1f1f)
+5. `index-propuesta1-gris.html` - Propuesta 1 con fondo gris oscuro (#151515)
+6. `index-propuesta2-gris.html` - Propuesta 2 con fondo gris oscuro (#151515)
+7. `index-propuesta3-gris.html` - Propuesta 3 con fondo gris oscuro (#151515)
 
-**Nota sobre el gris oscuro:** El color #1f1f1f fue seleccionado por ser un gris oscuro profesional que mejora la legibilidad y el contraste, optimizado para aumentar conversiones y ventas.
+**Nota sobre el gris oscuro:** El color #151515 fue seleccionado por ser un gris oscuro profesional que mejora la legibilidad y el contraste, optimizado para aumentar conversiones y ventas.
 
 ## Funcionalidades
 
